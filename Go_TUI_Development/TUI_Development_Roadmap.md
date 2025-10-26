@@ -55,10 +55,11 @@
      - [ ] Snake, Tetris, or text-based RPG
 
 ---
-When it comes to projects bulid something that fun and you can use
 
 **Key Libraries:**
 - Bubble Tea (charmbracelet/bubbletea)
 - Lipgloss (charmbracelet/lipgloss)
 - tview (rivo/tview)
 - tcell (gdamore/tcell)
+
+**Note:** When it comes to projects, build something that's fun and you can use!
