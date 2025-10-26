@@ -69,3 +69,5 @@
 - Effective Go documentation
 - Go by Example website
 - Head first Go (Book)
+
+**Note:** When it comes to projects, build something that's fun and you can use!
