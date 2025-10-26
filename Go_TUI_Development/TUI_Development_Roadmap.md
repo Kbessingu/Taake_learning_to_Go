@@ -55,8 +55,7 @@
      - [ ] Snake, Tetris, or text-based RPG
 
 ---
-
-**When it comes to projects bulid something that fun and you can use**
+When it comes to projects bulid something that fun and you can use
 
 **Key Libraries:**
 - Bubble Tea (charmbracelet/bubbletea)
