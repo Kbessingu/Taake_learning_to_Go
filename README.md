@@ -1,7 +1,7 @@
 # Taake learns to Go
 
 ### 🎯 Learning Goals
-- Learn Go fundamentals.
+- Go fundamentals.
 - CLI development.
 - TUI development.
 - GUI development.
