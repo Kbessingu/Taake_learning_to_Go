@@ -2,9 +2,11 @@
 Simple weather forecast CLI application
 Includes Fahrenheit if wanted
 Learning API and JSON usage with https://weatherapi.com
+Basic error handeling
 BYOAK (Bring Your Own API Key)
 Author: Taake
 */
+
 package main
 
 import (
