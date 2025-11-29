@@ -5,7 +5,7 @@
 - CLI development.
 - TUI development.
 - GUI development.
-- Tiny arcade-style SNES like games with a scoring system.
+- SNES-inspired arcade games.
 
 # 📚 ***Progress***
 - [ ] Learn Go fundamentals
